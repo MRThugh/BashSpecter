@@ -5,6 +5,8 @@
 [![Bash](https://img.shields.io/badge/Bash-Script-blue?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![Security](https://img.shields.io/badge/Security-Tool-critical)](https://github.com/MRThugh/BashSpecter)
 [![Author](https://img.shields.io/badge/Author-MR.Thugh-purple)](https://github.com/MRThugh)
+[![Persian](https://img.shields.io/badge/lang-PERSIAN-green)](README-fa.md)
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
 
 ```
 ██████╗  █████╗ ███████╗██╗  ██╗███████╗██████╗ ███████╗ ██████╗████████╗███████╗██████╗ 
